@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * This is the first page of the program
- * Return int
+ * main - This is the first page of the program
+ * Return: wil be 0
  */
 int main(void)
 {
