@@ -1,4 +1,4 @@
-#include <stdio.d>
+#include <stdio.h>
 /**
  * main - The beginning
  * Return: This wibb be 0
