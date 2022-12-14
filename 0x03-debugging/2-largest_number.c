@@ -19,7 +19,9 @@ if (a > b && a > c)
 }
 
 else if (b > c && b > a)
+{
 	largest = b;
+}
 
 else if (c > b)
 {
