@@ -6,10 +6,10 @@
  */
 int main(void)
 {
-	int i;
+int i;
 
-	printf("infinit loop incoming :(\n");
-	i = 0;
+printf("infinit loop incoming :(\n");
+i = 0;
 /*
  * while (i < 10)
  * {
