@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * reserve_array - this will reserve array of integers
+ * reverse_array - this will reserve array of integers
  * @a: input array a
  * @n: number of elements in the array
  * Return: void
  */
 
-void reserve_array(int *a, int n)
+void reverse_array(int *a, int n)
 {
 	int i;
 	int t;
