@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _strncp - this will copy a string
- * @dest: dest input 
+ * _strncpy - this will copy a string
+ * @dest: dest input
  * @src: src input
  * @n: n input
  * Return: dest
