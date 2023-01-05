@@ -9,7 +9,7 @@ char *_strchr(char *, char c)
 {
 	int i = 0;
 
-	for (; s[i] == c)
+	for (; s[i] >= '\0'; i++)
 	{
 		if (s[i] == c)
 			return (&s[i]);
