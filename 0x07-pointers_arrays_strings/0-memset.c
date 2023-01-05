@@ -1,12 +1,7 @@
-/*
- * File: 0-memset.c
- * Auth: none
- */
-
 #include "main.h"
 
 /**
- * _memset -First n bytes of memory space which is pointed to by @s and @c
+ * _memset - First n bytes of memory space which is poini to by @s and @c
  * @s: A pointer to the memory area to be filled
  * @c: The char to fill the memory space
  * @n: The number of bytes used
