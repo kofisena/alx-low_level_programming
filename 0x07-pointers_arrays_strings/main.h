@@ -3,10 +3,7 @@
 
 /**
  * File: main.h
- * Auth: sam tech (samuel birhanu)
- * description: Header file containing prototype for ll functions
- * used in 0x06-pointers_arrays
- * Error, -1 is returned
+ * description: Header file containing prototype
  */
 
 #include <stddef.h>
