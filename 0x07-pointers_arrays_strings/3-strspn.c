@@ -3,10 +3,10 @@
  * strspn - Entry point
  * @s: input
  * @ccept: input
- * Retur: 0
+ * Return: 0
  */
 
-unsigned int _strspn(chhar *s, char *accept)
+unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int n = 0;
 	int r;
