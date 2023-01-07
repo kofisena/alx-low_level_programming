@@ -15,7 +15,6 @@ else if (i * i < n)
 else if (i * i == n)
 	return (i);
 return (-1);
-return (-1);
 
 }
 
