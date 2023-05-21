@@ -6,7 +6,7 @@
 
 /* betty style doc for function main goes there */
 
-/*
+/**
  * main - Entry to program
  * return : 0
  */
