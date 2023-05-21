@@ -7,7 +7,7 @@
 
 /*
  * main - Entry to program
- * return - 0
+ * return : 0
  */
 
 int main(void)
@@ -19,15 +19,15 @@ int main(void)
 	/* your code goes there */
 	if (n > 0)
 	{
-	return ("n is positive");
+	printf("%d is positive", n);
 	}
 	else if (n == 0)
 	{
-	return ("n is zero");
+	printf("%d is zero", n);
 	}
 	else
 	{
-	return ("n is negative");
+	printf("%d is negative");
 	}
 
 	return (0);
