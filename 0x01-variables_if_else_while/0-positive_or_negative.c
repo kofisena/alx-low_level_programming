@@ -2,13 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
-
 /**
- * main - Entry to program
- * return : 0
+ * main - Print Postive nums, neg and zero
+ * Return: This will return 0
  */
 
 int main(void)
