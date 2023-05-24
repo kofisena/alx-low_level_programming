@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_alphabetx10 - print alpahbet 10 x
+ * print_alphabet_x10 - print alpahbet 10 x
  * Return: void
  */
 
-void print_alphabetx10(void)
+void print_alphabet_x10(void)
 {
 	char alpha;
 
