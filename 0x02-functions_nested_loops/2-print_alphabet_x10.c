@@ -15,11 +15,11 @@ while (i <= 9)
 	{
 	for (alpha = 'a'; alpha <= 'z'; alpha++)
 
-	{
+
 	_putchar(alpha);
 	_putchar('\n');
 
 	i++;
-	}
+
 	}
 }
