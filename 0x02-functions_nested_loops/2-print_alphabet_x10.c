@@ -1,13 +1,25 @@
 #include "main.h"
 
 /**
- * main - Entry
- * Return: 0
+ * print_alphabetx10 - print alpahbet 10 x
+ * Return: void
  */
 
-int main(void)
+void print_alphabetx10(void)
 {
-	print_alphabetx10();
+	char alpha;
 
-	return (0);
+	int i = 0;
+
+while (i <= 9)
+	{
+	for (alpha = 'a'; alpha <= 'z'; alpha++)
+
+	{
+	_putchar(alpha);
+	_putchar('\n');
+
+	i++;
+	}
+	}
 }
